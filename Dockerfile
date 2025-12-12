@@ -1,2 +1,3 @@
 FROM nginx:latest
-ADD . C:\DevOps\Projects\Demo-project-01
+ADD . /usr/share/nginx/html
+ 
